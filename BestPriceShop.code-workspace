@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "BestPriceShop",
+			"path": ".."
+		},
+		{
+			"name": "bootstrap-5.3.3",
+			"path": "../../Desktop/bootstrap-5.3.3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BestPriceShop"
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Best Price Project",
+  "version": "1.0.0",
+  "description": "fashion shop",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "courage ganyiwa",
+  "license": "ISC"
+}
