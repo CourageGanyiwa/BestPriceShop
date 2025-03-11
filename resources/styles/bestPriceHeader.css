@@ -23,8 +23,9 @@
 }
 
 .head-brand-logo {
+    align-items: center;
     font-size: large;
-    font-weight: 600;
+    font-weight: 500;
     color: rgb(240, 212, 4);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
         'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -52,8 +53,7 @@
 }
 
 .best-price-logo {
-    width: 25px;
-    margin-top: 5px;
+    width: 28px;
     border-radius: 20px;
 }
 
@@ -62,13 +62,13 @@
 }
 
 @media (max-width: 575px) {
-    .best-price-logo {
+    .head-brand-logo {
         display: none;
     }
 
-    .best-price-mobile-logo {
+        .best-price-logo {
         display: block;
-        height: 35px;
+        width: 35px;
         margin-top: 5px;
     }
 }
